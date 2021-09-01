@@ -1,4 +1,4 @@
-## Hi there. I'm Gade-HariHaran 👋
+## Hi there. I'm Hariharangupta 👋
 
 ###### I am a fresher a web developer having knowledge in many different front-end and back-end technologies and frameworks. I am looking for a frontend developer and mern stack developer position. My objective is to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can do about development. 
 
