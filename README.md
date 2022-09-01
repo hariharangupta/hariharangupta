@@ -1,15 +1,15 @@
 ## Hi there. I'm Hariharangupta 👋
 
-###### I am a fresher a web developer having knowledge in many different front-end and back-end technologies and frameworks, basic knowledge in design like figma photoshop.My objective is to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can do about development. 
+###### I am associate software developer having knowledge in front-end html, css, javascript, React.js and basic, back-end knowledge in express node.My objective is to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can do about development.
 
 :mailbox: Reach me out!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gade-HariHaran)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hari-haran-b534651b0//)
 
-##### - 🔭 I’m currently working on Frontend development.
-##### - 🌱 I’m currently learning Mern Stack.
+##### - 🔭 I’m currently working on associate software developer.
+##### - 🌱 Having an one year experience in  html, css, javascript, react.js.
 ##### - 👯 I’m looking to collaborate on IT industry.
-##### - 🤔 I’m looking for help with for a postion for frontend and mern stack developement to qucik start my carrer in Industry.
+##### - 🤔 I’m looking for a postion for React.js frontend developer in Industry.
 ##### - 💬 Ask me about web development.  
 ##### - 📫 How to reach me: hhariharan259@gmail.com.
 ##### - 😄 Pronouns: Hari. 
