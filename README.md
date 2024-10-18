@@ -1,25 +1,26 @@
-## Hi there. I'm Hariharangupta 👋
+## Hi there. I'm Gade HariHaran 👋
 
-###### I am associate software developer having knowledge in front-end html, css, javascript, React.js and basic, back-end knowledge in express node.My objective is to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can do about development.
+###### Detail-oriented Front-End Developer with over 3 years of experience in creating user-friendly web applications. Proficient in JavaScript, React.js, Next.js, Redux, Vue.js, and Nuxt.js, with a strong focus on performance optimization and user experience. Skilled in collaborating with cross-functional teams to deliver high-quality solutions on time. Experienced in using Git, Webpack, responsive design and testing tools.
 
 :mailbox: Reach me out!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gade-HariHaran)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hari-haran-b534651b0//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hariharangupta)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hari-haran-b534651b0/)
 
-##### - 🔭 I’m currently working on associate software developer.
-##### - 🌱 Having an one year experience in  html, css, javascript, react.js.
-##### - 👯 I’m looking to collaborate on IT industry.
-##### - 🤔 I’m looking for a postion for React.js frontend developer in Industry.
-##### - 💬 Ask me about web development.  
-##### - 📫 How to reach me: hhariharan259@gmail.com.
+##### - 🔭 I’m currently working on software developer at Mantra Group.
+##### - 🌱 Having an 3 year experience in frontend technologies like html, css, javascript, typescript, react.js, next.js, redux, vue.js, nuxt.js, vuex, pinia
+##### - 👯  Looking to collaborate in the IT industry.
+##### - 🤔 Seeking a position as a React.js Frontend Developer.
+##### - 💬 Open to discussing web development topics  
+##### - 📫 Email: hhariharan259@gmail.com.
 ##### - 😄 Pronouns: Hari. 
-##### - ⚡ Fun fact: Playing Games, Watching movies.
+##### - ⚡ Fun fact: Playing Games, Watching movies travelling.
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Express-3C873A?style=for-the-badge&labelColor=black&logo=Express&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-C1BEBC?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=4DB33D)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Javascript Badge](https://img.shields.io/badge/-Express-3C873A?style=for-the-badge&labelColor=black&logo=Express&logoColor=3C873A)](#) [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-C1BEBC?style=for-the-badge&labelColor=black&logo=MongoDB&logoColor=4DB33D)](#) [![next Badge](https://img.shields.io/badge/-next-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 #### Bizness
 - :paperclip: [My Resume/CV](file:///C:/Users/hp/Downloads/talent-one-page-personal-html-template/assets/Resume/Mern%20Stack%20Resume.docx)
@@ -37,7 +38,7 @@
 
 <br >
 
-###### I love to learn code, a self-learner, intersted to learn new skills.
+###### I love to learn new skills, a self and quick learner.
 
 #### Github Stats.
 
